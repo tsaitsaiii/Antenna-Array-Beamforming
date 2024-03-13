@@ -5,7 +5,7 @@
 In a conventional beamformer, each antenna‘s signal is multiplied by a specific Fourier weighting, and the weighted signals are then summed together. 
 
 
-<img src="beamforming scheme.png" width="400"/>
+<img src="beamforming scheme.png" width="350"/>
 
 The weights are chosen to optimize the array’s response in a particular direction, forming a “beam” of heightened sensitivity in that direction. 
 
